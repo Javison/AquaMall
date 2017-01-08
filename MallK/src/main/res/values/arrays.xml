@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="origen_foto">
+        <item>Album</item>
+        <item>Camara</item>
+    </string-array>
+</resources>

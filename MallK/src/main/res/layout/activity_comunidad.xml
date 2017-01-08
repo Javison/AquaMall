@@ -1,0 +1,17 @@
+<RelativeLayout xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/main_comunidad"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ComunidadActivity"
+    tools:ignore="MergeRootFrame">
+
+
+    <fragment
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/frListado"
+        android:name="com.tarea1.mallk.fragments.ComunidadFragment"
+        tools:layout="@layout/fragment_comunidad" />
+
+</RelativeLayout>
