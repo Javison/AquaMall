@@ -8,7 +8,7 @@ Aplicación informativa de un centro comercial (Aqua Valencia).
 Contiene "splash screen" de inicio y "Navigation Drawer" con Imágenes, Tiendas y Comunidad.
 
 - Comunidad: Comunicación con API Instagram para mostrar las imágenes del área de Valencia con etiqueta "Aqua".
-- Tiendas: Listado de tiendas. Información detallada de cada una y posibilidad de incluir comentarios (Backend Parse). 
+- Tiendas: Listado de tiendas. Información detallada de cada una y posibilidad de incluir comentarios (Backend Parse), compartir info y registro número de likes de tienda. 
 - Imagenes: "ViewPager" con imágenes del centro comercial
 
 
